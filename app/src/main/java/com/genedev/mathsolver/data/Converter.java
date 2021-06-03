@@ -1,9 +1,5 @@
 package com.genedev.mathsolver.data;
 
-/**
- * Created by raajesharunachalam on 3/25/17.
- */
-
 public class Converter {
     public static String convertMathToWolfram(String math) {
         StringBuilder wolframString = new StringBuilder();
