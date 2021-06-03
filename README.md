@@ -30,11 +30,7 @@ Points the camera to a math problem:
 
 ## Results
 
-<img src="https://github.com/JayaramR307/ar-math-solver/blob/main/images/1.PNG" width="210" height="410">
-<img src="https://github.com/JayaramR307/ar-math-solver/blob/main/images/2.PNG" width="210" height="410">  
-<img src="https://github.com/JayaramR307/ar-math-solver/blob/main/images/3.PNG" width="210" height="410">  
-<img src="https://github.com/JayaramR307/ar-math-solver/blob/main/images/4.PNG" width="210" height="410">  
-<img src="https://github.com/JayaramR307/ar-math-solver/blob/main/images/5.PNG" width="210" height="410">  
+<img src="https://github.com/JayaramR307/ar-math-solver/blob/main/images/1.PNG" width="210" height="410"><img src="https://github.com/JayaramR307/ar-math-solver/blob/main/images/2.PNG" width="210" height="410">  <img src="https://github.com/JayaramR307/ar-math-solver/blob/main/images/3.PNG" width="210" height="410">  <img src="https://github.com/JayaramR307/ar-math-solver/blob/main/images/4.PNG" width="210" height="410">  <img src="https://github.com/JayaramR307/ar-math-solver/blob/main/images/5.PNG" width="210" height="410">  
 
 ## Group Members
 * Abraham Tony
