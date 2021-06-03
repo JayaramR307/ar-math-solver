@@ -54,7 +54,7 @@ import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String CLOUD_VISION_API_KEY = "AIzaSyDRuzENrHX_giBv02Q04-QrZwxNVteaKy4";
+    private static final String CLOUD_VISION_API_KEY = "[Your Key]";
     private static final String ANDROID_CERT_HEADER = "X-Android-Cert";
     private static final String ANDROID_PACKAGE_HEADER = "X-Android-Package";
     public static final String TO_SOLUTIONS_LABEL = "Solutions";
