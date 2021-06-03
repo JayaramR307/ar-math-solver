@@ -16,9 +16,6 @@ import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.Objects;
 
-/**
- * Created by raajesharunachalam on 3/25/17.
- */
 
 public class WolframAlphaAsyncTask extends AsyncTask<String, Void, WolframResult> {
     WolframAdapter adapter;
