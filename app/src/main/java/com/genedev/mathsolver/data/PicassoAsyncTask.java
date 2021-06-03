@@ -10,9 +10,6 @@ import com.squareup.picasso.Picasso;
 import java.io.IOException;
 import java.util.ArrayList;
 
-/**
- * Created by raajesharunachalam on 3/26/17.
- */
 
 public class PicassoAsyncTask extends AsyncTask<ArrayList<Subpod>, Void, int[][]>{
 
