@@ -16,9 +16,6 @@ import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 
-/**
- * Created by raajesharunachalam on 3/25/17.
- */
 
 public class WolframAdapter extends RecyclerView.Adapter<WolframAdapter.SolutionViewHolder>{
     Context context;
